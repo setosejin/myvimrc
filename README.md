@@ -7,7 +7,8 @@
 
 	git clone https://github.com/sanglee325/myvimrc.git
 
-	#move colors directory to .vim directory
+	# move colors directory to .vim directory
+	# colors directory is in myvimrc directory
 	mv colors ../.vim/colors
 
 	# copy .vimrc to top directory
